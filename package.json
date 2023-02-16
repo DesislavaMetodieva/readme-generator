@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DesislavaMetodieva/readme-generator/issues"
   },
-  "homepage": "https://github.com/DesislavaMetodieva/readme-generator#readme"
+  "homepage": "https://github.com/DesislavaMetodieva/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
 }
