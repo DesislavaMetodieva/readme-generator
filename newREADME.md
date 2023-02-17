@@ -1,0 +1,1 @@
+{"projectTitle":"New Title","projectDescription":"Description","installation":"Instrcutions","usage":"Usage","contributing":"Guidelines","tests":"test","license":["MIT License"],"username":"DesislavaMetodieva","email":"metodieva.desislava@gmail.com"}

@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
+const myREADME = 'newREADME.md';
 
 const init = () => {
     const questions = [
@@ -66,12 +67,36 @@ const init = () => {
       // use the answers to generate the README file
 
       console.log(answers);
+      writeToFile(myREADME, answers);
+
+
+      // answers object returned by node
+    //   {
+    //     projectTitle: 'Title',
+    //     projectDescription: 'Project name',
+    //     installation: 'No isntall',
+    //     usage: 'Usage',
+    //     contributing: 'No collab',
+    //     tests: 'tests still in progress',
+    //     license: [ 'MIT License' ],
+    //     username: 'DesislavaMetodieva',
+    //     email: 'metodieva.desislava@gmail.com'
+    //   }
+
     });
   };
 
 // // function to write README file
-// function writeToFile(fileName, data) {
-// }
+ function writeToFile(myREADME, answers) {
+    const answersData = JSON.stringify(answers);
+    fs.appendFile(myREADME, answersData + '\n', (err) => {
+        if (err) {
+          console.error(err);
+        } else {
+          console.log('Data saved to readme file');
+        }
+      });
+}
 
 // // function call to initialize program
  init();
