@@ -1,6 +1,6 @@
-# Test
+# New Project Readme Generator
 
-Test
+Easy weasy way to generate your README files
 
 ## Table of Contents
 
@@ -13,15 +13,15 @@ Test
 
 ## Installation
 
-Test
+Install inquirer package
 
 ## Usage
 
-Test
+Usage
 
 ## Contributing
 
-Test
+Guidelines
 
 ## Tests
 
@@ -29,11 +29,11 @@ Test
 
 ## License
 
-Mozilla Public License 2.0
+MIT License
 
 ## Questions
 
 If you have any questions, please contact me:
 
-- GitHub: https://github.com/DesislavaMetodieva
+- GitHub: DesislavaMetodieva
 - Email: metodieva.desislava@gmail.com

@@ -39,7 +39,7 @@ ${license.join(', ')}
 
 If you have any questions, please contact me:
 
-- GitHub: ${username}
+- GitHub: https://github.com/${username}
 - Email: ${email}
 `;
 }
