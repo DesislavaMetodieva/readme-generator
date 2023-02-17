@@ -39,8 +39,8 @@ ${license.join(', ')}
 
 If you have any questions, please contact me:
 
-- GitHub: https://github.com/${username}
-- Email: ${email}
+- 💬 GitHub: https://github.com/${username}
+- 📫 Email: ${email}
 `;
 }
 

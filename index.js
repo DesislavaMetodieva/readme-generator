@@ -86,3 +86,7 @@ function writeToFile(myREADME, answers) {
 
 // // function call to initialize program
  init();
+
+// function to add License badge
+
+

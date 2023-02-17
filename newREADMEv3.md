@@ -35,5 +35,5 @@ Mozilla Public License 2.0
 
 If you have any questions, please contact me:
 
-- GitHub: https://github.com/DesislavaMetodieva
-- Email: metodieva.desislava@gmail.com
+- 💬 GitHub: https://github.com/DesislavaMetodieva
+- 📫 Email: metodieva.desislava@gmail.com
