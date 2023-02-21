@@ -14,7 +14,7 @@ Through building this project, I learned how to use the npm inquirer package to 
 
 To generate your own README, git clone the repo down to your local mashine so you have the Node project on your local.
 
-Run npm install in order to install the following npm package dependencies as specified in the package.json:
+Run npm install in order to install the following npm package dependencies as specified in the package.json.
 
 inquirer will prompt you for your inputs from the command line.
 

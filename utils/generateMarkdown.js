@@ -23,7 +23,7 @@ console.log(licenseBadgeMarkdown);
   return `#  ${licenseBadgeMarkdown}
   
 
-  #   ${projectTitle}
+  #  ${projectTitle}
 
 
 

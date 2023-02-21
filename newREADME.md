@@ -1,11 +1,11 @@
-#  [![GNU General Public License v3.0](https://img.shields.io/badge/license-GPLv3-blue)](https://img.shields.io/badge/license-GPLv3-blue)
+#  [![MIT License](https://img.shields.io/badge/license-MIT-brightgreen)](https://img.shields.io/badge/license-MIT-brightgreen)
   
 
-  #   kfsjehfksjf
+  #  Readme generator app
 
 
 
-hfhdfgh
+This is an app which helps developers with generating an automated README file with a markdown format
 
 ## Table of Contents
 
@@ -18,27 +18,27 @@ hfhdfgh
 
 ## Installation
 
-hfghfghgf
+Please download the repo and install
 
 ## Usage
 
-hdftghdthth
+Please install to your local machine
 
 ## Contributing
 
-tfhdfthdftfh
+It is an open-source project feel free to add your code
 
 ## Tests
 
-fgthjtfjd
+No instractuions as of now
 
 ## License
 
-GNU General Public License v3.0
+MIT License
 
 ## Questions
 
 If you have any questions, please contact me:
 
 - 💬 GitHub: https://github.com/DesislavaMetodieva
-- 📫 Email: desimm@abv.bg
+- 📫 Email: metodieva.desislava@gmail.com
