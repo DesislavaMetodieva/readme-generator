@@ -22,6 +22,10 @@ inquirer will prompt you for your inputs from the command line.
 
 The application will start by running node index.js in the command line.
 
+# Screenshot
+
+![readme-generator](https://user-images.githubusercontent.com/82023025/233664574-61c55ca0-8eb6-4520-a051-23bfce2fa905.jpg)
+
 # Credits
 
 No collaborators
